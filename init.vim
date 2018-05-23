@@ -27,8 +27,8 @@ set showmatch           " Show matching brackets.
 set number              " Show the line numbers on the left side.
 set formatoptions+=o    " Continue comment marker in new lines.
 set expandtab           " Insert spaces when TAB is pressed.
-set tabstop=4           " Render TABs using this many spaces.
-set shiftwidth=4        " Indentation amount for < and > commands
+set tabstop=3           " Render TABs using this many spaces.
+set shiftwidth=3        " Indentation amount for < and > commands
 
 " ctrlp mappings
 " Open file menu
